@@ -5,17 +5,24 @@ A program to create, solve and draw mazes in your terminal or in 2D/3D
 ## Gallery
 
 2D Terminal view
+`10x10, Recursive Backtracker, Seed 1684354595222685`
 
 <p align="center">
-  <img style="float: right;" src="https://github.com/fred1268/amaze/blob/development/readme/terminal_15x15_recursivebacktracker_solved.png" alt="Amaze in Action"/>
+  <img style="float: right;" src="https://github.com/fred1268/assets/blob/development/amaze/10x10_recursivebacktracker_1684354595222685.png" alt="Amaze in Action"/>
 </p>
+
 2D Graphical view
+`20x20, Growing Tree, Mix, Braid 80%, Seed 1684354465956585`
+
 <p align="center">
-  <img style="float: right;" src="https://github.com/fred1268/amaze/blob/development/readme/2D_20x20_sidewinder_solved.png" alt="Amaze in Action"/>
+  <img style="float: right;" src="https://github.com/fred1268/assets/blob/development/amaze/20x20_growingtree_mix_braid80_1684354465956585.png" alt="Amaze in Action"/>
 </p>
+
 3D Graphical view
+`40x40, Hunt and Kill, Braid 50%, Seed 1684354734176462`
+
 <p align="center">
-  <img style="float: right;" src="https://github.com/fred1268/amaze/blob/development/readme/3D_50x50_growingtree_solved2.png" alt="Amaze in Action"/>
+  <img style="float: right;" src="https://github.com/fred1268/assets/blob/development/amaze/40x40_huntandkill_braid50_1684354734176462.png" alt="Amaze in Action"/>
 </p>
 
 ---

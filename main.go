@@ -29,7 +29,7 @@ func main() {
 		Length:    20,
 		Algorithm: "binarytree",
 		Seed:      int(time.Now().UnixMicro()),
-		Solve:     false,
+		Solve:     true,
 		Help:      false,
 		Braid:     0,
 	}

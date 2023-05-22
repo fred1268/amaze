@@ -1,8 +1,6 @@
 package algo
 
-import (
-	"github.com/fred1268/maze/maze"
-)
+import "github.com/fred1268/amaze/maze"
 
 func AldousBroder(m *maze.Maze) {
 	cell := m.GetCell(rnd.Int()%m.Width, rnd.Int()%m.Length)

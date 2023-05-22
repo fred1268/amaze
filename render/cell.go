@@ -3,7 +3,7 @@ package render
 import (
 	"math"
 
-	"github.com/fred1268/maze/maze"
+	"github.com/fred1268/amaze/maze"
 	"github.com/g3n/engine/core"
 	"github.com/g3n/engine/geometry"
 	"github.com/g3n/engine/graphic"

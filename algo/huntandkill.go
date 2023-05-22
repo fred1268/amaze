@@ -1,7 +1,7 @@
 package algo
 
 import (
-	"github.com/fred1268/maze/maze"
+	"github.com/fred1268/amaze/maze"
 )
 
 func huntAndKill_NextCell(m *maze.Maze) *maze.Cell {

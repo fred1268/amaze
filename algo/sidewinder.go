@@ -3,7 +3,7 @@ package algo
 import (
 	"math/rand"
 
-	"github.com/fred1268/maze/maze"
+	"github.com/fred1268/amaze/maze"
 )
 
 func SideWinder(m *maze.Maze) {

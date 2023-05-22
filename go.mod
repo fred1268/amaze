@@ -1,4 +1,4 @@
-module github.com/fred1268/maze
+module github.com/fred1268/amaze
 
 go 1.20
 
@@ -6,7 +6,7 @@ require (
 	github.com/fred1268/go-clap v1.1.0
 	github.com/g3n/engine v0.2.0
 	github.com/gookit/color v1.5.3
-	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc
+	golang.org/x/exp v0.0.0-20230519143937-03e91628a987
 )
 
 require (

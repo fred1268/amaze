@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/fred1268/maze/maze"
+	"github.com/fred1268/amaze/maze"
 	"github.com/g3n/engine/app"
 	"github.com/g3n/engine/camera"
 	"github.com/g3n/engine/core"

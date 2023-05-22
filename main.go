@@ -5,10 +5,10 @@ import (
 	"os"
 	"time"
 
+	"github.com/fred1268/amaze/algo"
+	"github.com/fred1268/amaze/maze"
+	"github.com/fred1268/amaze/render"
 	"github.com/fred1268/go-clap/clap"
-	"github.com/fred1268/maze/algo"
-	"github.com/fred1268/maze/maze"
-	"github.com/fred1268/maze/render"
 )
 
 type Config struct {

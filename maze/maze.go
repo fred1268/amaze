@@ -108,7 +108,7 @@ func (m *Maze) Braid(percent int) {
 
 func (m *Maze) Print(solve bool) string {
 	out := "+"
-	for i := 0; i < m.Width; i++ {
+	for x := 0; x < m.Width; x++ {
 		out = fmt.Sprintf("%s%s", out, "---+")
 	}
 	out = fmt.Sprintf("%s\n", out)
